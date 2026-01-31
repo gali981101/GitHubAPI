@@ -1,4 +1,4 @@
 # GitHubAPI
-使用 GitHubAPI 完成一個利用關鍵字查詢 Repository 功能的應用，並且具備細節頁面。
+App using GitHub API to search repositories by keyword, with detailed repository pages.
 
 https://youtu.be/ytWEK4rIpYw?si=Cx6ksdkPAAPQZ-zA
